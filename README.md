@@ -41,14 +41,12 @@ Recreate this page, using Gatsby & React (with functional components and hooks):
 
 	```json
 	{
-		// ...
 		"files.autoSave": "onFocusChange",
 		"eslint.debug": true,
 		"editor.codeActionsOnSave": {
 			"source.fixAll.eslint": true,
 		},
 		"eslint.run": "onType",
-		// ...
 	}
 	```
 
